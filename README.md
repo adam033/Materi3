@@ -11,6 +11,6 @@ melakukan booting. Aplikasi harus bisa menerima obyek broadcast yang dikirimkan 
 sistem Android untuk event booting tersebut.
 
 ### Hasil Run :
-![Alt Text](https://github.com/adam033/Materi3/blob/main/Screenshot%20(602).png
-![Alt Text](https://github.com/adam033/Materi3/blob/main/Screenshot%20(603).png
+![Alt Text](https://github.com/adam033/Materi3/blob/main/Screenshot%20(602).png)
+![Alt Text](https://github.com/adam033/Materi3/blob/main/Screenshot%20(603).png)
 
