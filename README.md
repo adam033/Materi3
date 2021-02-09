@@ -21,3 +21,18 @@ Perbedaan LinearLayout,RelativeLayout dan ConstrainLayout :
 3.   Constarint Layout memungkinkan kita membuat tata letak yang besar dan kompleks dengan tampilan datar. Ini hampir mirip dengan Relative Layout karena semua tampilan ditata berdasarkan hubungan antara satu objek dengan yang lain, tetapi lebih fleksibel daripada RelativeLayout dan lebih mudah digunakan dengan Editor Layout Android Studio.
 (Lebih simpelnya constraint layout memiliki sifat kompleks dan cocok digunakan pada project besar).
 
+**Source : http://komporkode.blogspot.com/2018/07/belajar-android-perbedaan-layout-linear-relative-dan-constraint.html**
+
+Penjelasan OnCreate() dan OnPause() :
+1.  OnCreate() : Ketika sebuah activity dibuat, pada method inilah kita 
+melakukan inisialisasi seperti create view, list data, dan
+lain-lain. Method onCreate() selalu diikuti oleh onStart().
+2.  OnPause() : Ketika sebuah activity lainnya dipanggil atau dimulai,
+method ini digunakan ketika data tidak harus disimpan
+kedalam system secara permanen, method ini diikuti
+onResume() atau onStop().
+
+**Source : Modul Java Dan Android**
+
+
+
