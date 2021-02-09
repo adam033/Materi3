@@ -16,6 +16,8 @@ sistem Android untuk event booting tersebut.
 
 ### Jawaban Soal :
 Perbedaan LinearLayout,RelativeLayout dan ConstrainLayout :
-1.  LinearLayout : Linear Layout adalah jenis layout dimana user menempatkan 1 objek per baris atau kolom secara sejajar. Jadi di dalam setiap baris atau kolom hanya ada 1 objek yang bisa ditempatkan . Linear Layout ini ada dua jenis (Horizontal dan Vertikal).
+1.  LinearLayout : Linear Layout adalah jenis layout dimana user menempatkan 1 objek per baris atau kolom secara sejajar. Jadi di dalam setiap baris atau kolom hanya ada 1 objek yang bisa ditempatkan . Linear Layout ini ada dua jenis (Horizontal dan Vertikal) dan layout ini memiliki sifat paling simpel.
 2.  RelativeLayout : Relative Layout adalah jenis layout yang memiliki karakteristik dalam menempatkan view secara relatif (Baca apa itu relatif disini). Relatif disini berarti posisi dari setiap view bergantung kepada view yang lain. Simplenya adalah, kita bebas untuk menempatkan objek yang diinginkan sesuka hati kita. Penempatan satu objek bisa dimana saja mau di sisi kanan, kiri, atas, ataupun bawah dari objek lain. Jika tidak di tetapkan, maka objek dapat menumpuk antara satu objek dengan objek yang lain. (Lebih simpelnya lebih fleksibel menggunakan Relative layout daripada Linear layout).
+3.   Constarint Layout memungkinkan kita membuat tata letak yang besar dan kompleks dengan tampilan datar. Ini hampir mirip dengan Relative Layout karena semua tampilan ditata berdasarkan hubungan antara satu objek dengan yang lain, tetapi lebih fleksibel daripada RelativeLayout dan lebih mudah digunakan dengan Editor Layout Android Studio.
+(Lebih simpelnya constraint layout memiliki sifat kompleks dan cocok digunakan pada project besar).
 
